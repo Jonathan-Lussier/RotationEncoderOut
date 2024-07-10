@@ -163,7 +163,7 @@ void loop() {
   if (currentPos <= 0 || currentPos >= 8000){
     nemaPos.write(4000);
   }
-  delay(10);
+  delay(9);
 
 
 }
